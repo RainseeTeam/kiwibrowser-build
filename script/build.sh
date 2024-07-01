@@ -21,7 +21,7 @@ export PATH=$DEPOT_TOOLS_DIR:$DEPOT_TOOLS_DIR/python2_bin:$DEPOT_TOOLS_DIR/pytho
 
 
 cd src
-echo "MAJOR=100\nMINOR=0\nBUILD=0\nPATCH=0" > chrome/VERSION
+echo "MAJOR=112\nMINOR=0\nBUILD=5615\nPATCH=101" > chrome/VERSION
 
 gclient runhooks
 
